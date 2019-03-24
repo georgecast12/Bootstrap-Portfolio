@@ -1,5 +1,5 @@
 body {
-    background-image: url(concrete_seamless.png)
+    background-image: url(assets/concrete_seamless.png)
 }
 
 #header {
@@ -49,6 +49,30 @@ h2 {
     margin-bottom: 50px;
 }
 
+
+.contactbox {
+    background-color: #ffffff;
+    position: relative;
+    margin: 0 auto;
+    width: 680px;
+    height: 575px;
+    padding: 30px;
+    border: .05px solid  #c6caca;
+    margin-bottom: 50px;
+}
+
+.items {
+    background-color: #ffffff;
+    width: 700px;
+    position: relative;
+    margin: 0 auto;
+    height: 847px;
+    padding: 30px;
+    border: .05px solid #c6caca;
+    margin-bottom: 70px;
+}
+
+
 .bottomline {
 
     border-bottom: 2px solid  #c6caca;
@@ -59,6 +83,21 @@ h2 {
     float: left;
     width: 25%;
     margin: 10px;
+}
+
+
+.nametag {
+    
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 200px;
+    height: 40px;
+    position: relative;
+    bottom: 49px;
 }
 
 .text1 {
@@ -96,3 +135,15 @@ i:link {
     background-color: transparent; 
     text-decoration: none;
   }
+
+  textarea {
+    width: 600px;
+    height: 35px;
+    }
+
+    .textarea2 {
+        width: 600px;
+        height: 400px;
+        
+    }
+
