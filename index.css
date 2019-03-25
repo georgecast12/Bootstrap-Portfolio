@@ -46,35 +46,62 @@ h2 {
     width: 960px;
     position: relative;
     margin: 0 auto;
-    height: 550px;
-    padding: 30px;
-    border: .05px solid  #c6caca;
-    margin-bottom: 50px;
-}
-
-
-.contactbox {
-    background-color: #ffffff;
-    position: relative;
-    margin: 0 auto;
-    width: 680px;
     height: 70%;
     padding: 30px;
     border: .05px solid  #c6caca;
     margin-bottom: 50px;
+
 }
+
+
+#contactbox {
+    background-color: #ffffff;
+    position: relative;
+    margin: 0 auto;
+    width: 87%;
+    min-width: 300px;
+    height: 70%;
+    padding: 30px;
+    border: .05px solid #c6caca;
+    margin-bottom: 50px;
+}
+
+  #textarea {
+    width: 100%;
+    min-width: 200px;
+    height: 35px;
+    min-height: 35px;
+    max-height: 35px;
+    }
+
+    #textarea2 {
+        width: 100%;
+        min-width: 200px;
+        min-height: 150px;
+        max-height: 250px;
+        }
+
 
 .items {
     background-color: #ffffff;
-    width: 700px;
+    width: 70%;
     position: relative;
     margin: 0 auto;
-    height: 847px;
-    padding: 30px;
+    height: 90%;
+    padding: 5%;
     border: .05px solid #c6caca;
     margin-bottom: 70px;
+    min-width: 400px;
 }
 
+.item1 {
+    width: 94%;
+    position: relative;
+    margin: 0 auto;
+    height: 92%;
+    min-width: 200px;
+    max-width: 200px;
+}
 
 .bottomline {
 
@@ -85,6 +112,7 @@ h2 {
 .biopic {
     float: left;
     width: 25%;
+    min-height: 30%;
     margin: 10px;
 }
 
@@ -118,6 +146,7 @@ h2 {
     color: #99908d;
     margin: 10px;  
     font-family: Arial, Helvetica, sans-serif;
+
 }
 
 footer {
@@ -139,16 +168,6 @@ i:link {
     text-decoration: none;
   }
 
-  textarea {
-    width: 600px;
-    height: 35px;
-    }
-
-    #textarea2 {
-        width: 600px;
-        height: 200px;
-        
-    }
 input {
     background-color: #4aaaa5;
     color: #ffffff;
