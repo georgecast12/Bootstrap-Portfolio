@@ -1,2 +1,16 @@
 # Bootstrap-Portfolio
-Portfolio site that includes Bootstrap functions by JC
+
+Includes index.html, portfolio.html, contact.html & index.css.
+
+Incorporations:
+A) navbar
+B) responsive layout 
+C)Responsive images
+d) Using Bootstrap, added sticky navbar
+
+
+
+
+
+
+
